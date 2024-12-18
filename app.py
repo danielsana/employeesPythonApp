@@ -100,7 +100,4 @@ def menu():
         else:
             print("Invalid choice. Please try again.")
 
-
-# Run the program
-if __name__ == "__main__":
-    menu()
+menu()
